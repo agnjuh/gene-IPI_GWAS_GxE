@@ -28,7 +28,7 @@ Key research aims:
 ## Citation
 If you use this repository or build upon its workflow, please cite:
 
-> Juhász AJ. (2025). *Can long pregnancy intervals reset the effect of maternal genes?* Master’s thesis. University of Skövde & Sahlgrenska Academy, University of Gothenburg.
+> Juhász ÁJ. (2025). *Can long pregnancy intervals reset the effect of maternal genes?* Master’s thesis. University of Skövde & Sahlgrenska Academy, University of Gothenburg.
 
 ## License
 This repository is released under the MIT License.  
