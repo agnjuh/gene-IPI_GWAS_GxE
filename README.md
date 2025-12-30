@@ -30,6 +30,15 @@ If you use this repository or build upon its workflow, please cite:
 
 > Juhász ÁJ. (2025). *Can long pregnancy intervals reset the effect of maternal genes?* Master’s thesis. University of Skövde & Sahlgrenska Academy, University of Gothenburg.
 
-## License
+
+## Authorship & Affiliation
+**Author:** Ágnes Judit Juhász  
+**ORCID:** https://orcid.org/0000-0002-7318-4539  
+
+This work was developed by Ágnes Judit Juhász as part of her MSc thesis research conducted within the Perinatal Research Laboratory at the Sahlgrenska Academy, University of Gothenburg. Institutional affiliation reflects the research environment only and does not imply ownership of the intellectual property.
+
 This repository is released under the MIT License.  
-Note: MoBa data is not included and requires separate application for access.
+Copyright (c) 2024–2025 Ágnes Judit Juhász
+
+**Note:** MoBa data are not included in this repository and require a separate
+application for access in accordance with data governance regulations.
